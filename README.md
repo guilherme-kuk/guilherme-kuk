@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h2>Olá, sou Guilherme!</h2>
+<h2>Olá!</h2>
 <p>Desenvolvedor frontend jr. em constante construção. Prezo pelo planejamento, qualidade, organização e regras claras. Sou focado e determinado em cumprir com o que é exigido.
 </p>
 
